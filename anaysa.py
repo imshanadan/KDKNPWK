@@ -38,7 +38,7 @@ label{
     height: 30px;
 }
 body{
-    background-image: url('https://i.ibb.co/XFW3H5f/1733948868698.jpg');
+    background-image: url('https://i.ibb.co/mvxNZqb/IMG-20241212-023227.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     
@@ -206,3 +206,4 @@ if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
 
 
+                              
